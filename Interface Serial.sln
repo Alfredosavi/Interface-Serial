@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface Serial", "Interface Serial\Interface Serial.csproj", "{AA8009C3-2818-4418-A890-67AE30698B8D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Interface Serial\Instalador\Setup\Setup.vdproj", "{4A3A7EA9-5787-4BF2-83EA-00F94C83A89F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8009C3-2818-4418-A890-67AE30698B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8009C3-2818-4418-A890-67AE30698B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8009C3-2818-4418-A890-67AE30698B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8009C3-2818-4418-A890-67AE30698B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A3A7EA9-5787-4BF2-83EA-00F94C83A89F}.Debug|Any CPU.ActiveCfg = Debug
+		{4A3A7EA9-5787-4BF2-83EA-00F94C83A89F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96608509-4F81-4800-99C9-8E45F6B116DC}
+	EndGlobalSection
+EndGlobal
